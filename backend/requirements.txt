@@ -1,0 +1,10 @@
+google-cloud-speech
+google-api-python-client
+google-generativeai
+yt-dlp
+moviepy
+Flask
+python-docx
+reportlab
+Flask-Cors
+youtube-transcript-api

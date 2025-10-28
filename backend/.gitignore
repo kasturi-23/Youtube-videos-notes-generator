@@ -1,0 +1,10 @@
+# Ignore the .env file containing sensitive credentials
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary audio files
+temp_audio*
+*.wav
